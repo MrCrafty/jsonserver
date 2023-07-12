@@ -12,5 +12,15 @@
       "title": "post-3",
       "description": "Some description"
     }
+  ],
+  "user": [
+    {
+      "name": "harsh",
+      "role": "developer"
+    },
+    {
+      "name": "ravi",
+      "role": "senior developer"
+    }
   ]
 }
