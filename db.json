@@ -1,5 +1,5 @@
 {
-  "posts":[
+  "posts": [
     {
       "title": "post-1",
       "description": "Some description"
@@ -7,19 +7,9 @@
     {
       "title": "post-2",
       "description": "Some description"
-    },{
-      "title": "post-1",
-      "description": "Some description"
     },
     {
-      "title": "post-2",
-      "description": "Some description"
-    },{
-      "title": "post-1",
-      "description": "Some description"
-    },
-    {
-      "title": "post-2",
+      "title": "post-3",
       "description": "Some description"
     }
   ]
