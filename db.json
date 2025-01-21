@@ -1,4 +1,16 @@
 {
+  "personalData":{
+    "name":"Harsh Mithapara",
+    "designation":"Full Stack Web Developer",
+    "description":"Crafting elegant solutions to complex problems with a passion for clean code and innovative technologies."
+    "image_url":"https://drive.google.com/file/d/1KUxV7jn3OjB95DydxaAMosmT4zkA8ube/view?usp=drive_link",
+    "skills":["React", "TypeScript","C#",".Net"],
+    "links":{
+      "github":"github.com/mrcrafty",
+      "linkedin":"https://www.linkedin.com/in/harsh-m-a3431b108/",
+      "email":"harsh.mithapara@gmail.com"
+    }
+  }
   "education": [
     {
       "degree": "Bachelors in Computer Science and Engineering",
