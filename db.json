@@ -1,5 +1,5 @@
 {
-  "education":[
+  "education": [
     {
       "degree": "Bachelors in Computer Science and Engineering",
       "description": "Focused on Web Development",
@@ -9,8 +9,8 @@
       "skills": [
         { "icon": "Code", "title": "Advanced Machine Learning" },
         { "icon": "Terminal", "title": "Neural Networks" },
-        { "icon": "Database", "title": "Big Data Analytics" },
-      ],
+        { "icon": "Database", "title": "Big Data Analytics" }
+      ]
     },
     {
       "degree": "Bachelors in Data Science and Applications",
@@ -21,62 +21,34 @@
       "skills": [
         { "icon": "Globe", "title": "Distributed Systems" },
         { "icon": "Cloud", "title": "Cloud Computing" },
-        { "icon": "Code", "title": "Algorithm Design" },
-      ],
-    },
+        { "icon": "Code", "title": "Algorithm Design" }
+      ]
+    }
   ],
-  "achievements":[{
+  "achievements": [
+    {
       "name": "Best Thesis Award",
-      "description": "Recognition for Outstanding Research In AI Applications",
-    }],
-  "projects":[
+      "description": "Recognition for Outstanding Research In AI Applications"
+    }
+  ],
+  "projects": [
     {
       "title": "AI-Powered Analytics",
-      "description":
-        "Real-time data analytics platform using machine learning for predictive insights",
-      "image":
-        "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&auto=format&fit=crop&q=60",
-      "tags": ["React", "Python", "TensorFlow"],
+      "description": "Real-time data analytics platform using machine learning for predictive insights",
+      "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&auto=format&fit=crop&q=60",
+      "tags": ["React", "Python", "TensorFlow"]
     },
     {
       "title": "Cloud Infrastructure",
-      "description":
-        "Scalable cloud architecture supporting millions of concurrent users",
-      "image":
-        "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=60",
-      "tags": ["AWS", "Docker", "Kubernetes"],
+      "description": "Scalable cloud architecture supporting millions of concurrent users",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=60",
+      "tags": ["AWS", "Docker", "Kubernetes"]
     },
     {
       "title": "Blockchain Platform",
-      "description":
-        "Decentralized application for secure digital asset management",
-      "image":
-        "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&auto=format&fit=crop&q=60",
-      "tags": ["Solidity", "Web3", "React"],
-    },
-  ],
-  "posts": [
-    {
-      "title": "post-1",
-      "description": "Some description"
-    },
-    {
-      "title": "post-2",
-      "description": "Some description"
-    },
-    {
-      "title": "post-3",
-      "description": "Some description"
-    }
-  ],
-  "user": [
-    {
-      "name": "harsh",
-      "role": "developer"
-    },
-    {
-      "name": "ravi",
-      "role": "senior developer"
+      "description": "Decentralized application for secure digital asset management",
+      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&auto=format&fit=crop&q=60",
+      "tags": ["Solidity", "Web3", "React"]
     }
   ]
 }
