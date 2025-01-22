@@ -1,7 +1,7 @@
 {
   "personalData":{
     "name":"Harsh Mithapara",
-    "designation":"Full Stack Web Developer",
+    "designation":"Developer",
     "description":"Crafting elegant solutions to complex problems with a passion for clean code and innovative technologies.",
     "image_url":"https://drive.google.com/file/d/1xLBdfA0hGRtdSAIcu7bgc6dnq0tCCfBX/view?usp=sharing",
     "skills":["React", "TypeScript","C#",".Net", "GoLang", "Docker", "Next.JS", "Javascript", "TailwindCSS", "JQuery"],
