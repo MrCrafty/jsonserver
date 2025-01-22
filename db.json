@@ -45,8 +45,8 @@
   ],
   "projects": [
     {
-      "title": "AI-Powered Analytics",
-      "description": "Real-time data analytics platform using machine learning for predictive insights",
+      "title": "House-Services Management App",
+      "description": "PaaS web application developed using Python(Flask) and VueJS, along with SQLite Database. The application has role based Authentication and Authorization, and there are 3 roles, Admin, User and Serviceman.",
       "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&auto=format&fit=crop&q=60",
       "tags": ["React", "Python", "TensorFlow"]
     },
