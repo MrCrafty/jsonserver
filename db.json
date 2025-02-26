@@ -49,18 +49,6 @@
       "description": "PaaS web application developed using Python(Flask) and VueJS, along with SQLite Database. The application has role based Authentication and Authorization, and there are 3 roles, Admin, User and Serviceman.",
       "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&auto=format&fit=crop&q=60",
       "tags": ["React", "Python", "TensorFlow"]
-    },
-    {
-      "title": "Cloud Infrastructure",
-      "description": "Scalable cloud architecture supporting millions of concurrent users",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=60",
-      "tags": ["AWS", "Docker", "Kubernetes"]
-    },
-    {
-      "title": "Blockchain Platform",
-      "description": "Decentralized application for secure digital asset management",
-      "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&auto=format&fit=crop&q=60",
-      "tags": ["Solidity", "Web3", "React"]
     }
   ]
 }
