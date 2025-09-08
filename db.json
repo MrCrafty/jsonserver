@@ -2,7 +2,8 @@
   "personalData":{
     "name":"Harsh Mithapara",
     "designation":"Full Stack Web Developer",
-    "description":"Crafting elegant solutions to complex problems with a passion for clean code and innovative technologies.",
+    "description":"Full Stack Developer and Data Science enthusiast with over 3 years of experience crafting high-performance web applications for international clients in diverse industries. Passionate about innovative problem solving and seamless user experiences, I specialize in React, Next.js, C#, Python, and a wide range of modern frameworks and databases. Whether building scalable platforms, optimizing site speed, or implementing AI-driven features, my goal is to deliver solutions that drive real results and make technology accessible for everyone.
+Always keen to learn and grow, I love collaborating with global teams and using my skills to turn ideas into impactful products",
     "image_url":"https://res.cloudinary.com/ddrnari2y/image/upload/v1757335447/Profile_Pic_Medium_azqhh0.jpg",
     "skills":["React", "TypeScript","C#",".Net", "GoLang", "Docker", "Next.JS", "Javascript", "TailwindCSS", "JQuery",  "Sitecore", "ContentStack"],
     "links":{
