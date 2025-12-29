@@ -1,0 +1,25 @@
+{
+  "RequestNo": "100234567",
+  "RequestCreatedDate": "2023-11-15",
+  "RequestState": "20",
+  "RequestStateDescription": "Technical Study in Progress",
+  "RemarkExist": 1,
+  "RemarkDetails": [
+    {
+      "remarkCode": 101,
+      "remarkDescription": "Missing Site Map",
+      "extraText": "Please provide a clearer image of the location."
+    }
+  ],
+  "SiteVisitCompletedDate": "2023-11-18",
+  "HasUploadedSiteVisitDocument": 4,
+  "TechnicalStudy25KWFlag": 0,
+  "TechnicalStudyCompletedDate": "2023-11-20",
+  "HasAcceptedTheTechnicalStudyAgrement": 2,
+  "ContractorConsultantCompletedDate": "2023-11-22",
+  "HasSelectedSecAssignedContractor": 1,
+  "PaymentCompletedDate": "2023-11-23",
+  "NetworkandTestingCompletedDate": "2023-11-25",
+  "ContractorType": 1,
+  "HasResolvedNetworkRemark": 4
+}
