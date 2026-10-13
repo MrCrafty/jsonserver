@@ -1,0 +1,55 @@
+{
+  "personalData":{
+    "name":"Harsh Mithapara",
+    "designation":"Full Stack Web Developer",
+    "description":"Full Stack Developer and Data Science enthusiast with over 3 years of experience crafting high-performance web applications for international clients in diverse industries. Passionate about innovative problem solving and seamless user experiences, I specialize in React, Next.js, C#, Python, and a wide range of modern frameworks and databases. Whether building scalable platforms, optimizing site speed, or implementing AI-driven features, my goal is to deliver solutions that drive real results and make technology accessible for everyone.
+Always keen to learn and grow, I love collaborating with global teams and using my skills to turn ideas into impactful products",
+    "image_url":"https://res.cloudinary.com/ddrnari2y/image/upload/v1757335447/Profile_Pic_Medium_azqhh0.jpg",
+    "skills":["React", "TypeScript","C#",".Net", "GoLang", "Docker", "Next.JS", "Javascript", "TailwindCSS", "JQuery",  "Sitecore", "ContentStack"],
+    "links":{
+      "github":"https://www.github.com/mrcrafty",
+      "linkedin":"https://www.linkedin.com/in/harshmithapara",
+      "email":"harsh.mithapara@gmail.com"
+    }
+  },
+  "education": [
+    {
+      "degree": "Bachelors in Computer Science and Engineering",
+      "description": "Focused on Web Development",
+      "start_year": 2019,
+      "end_year": 2023,
+      "university": "A.D. Patel Institute of Technology, VVN (GTU)",
+      "skills": [
+        { "icon": "Code", "title": "Advanced Machine Learning" },
+        { "icon": "Terminal", "title": "Neural Networks" },
+        { "icon": "Database", "title": "Big Data Analytics" }
+      ]
+    },
+    {
+      "degree": "Bachelors in Data Science and Applications",
+      "description": "Exploring the world of Data",
+      "start_year": 2021,
+      "end_year": 2026,
+      "university": "Indian Institute of Technology, Madras",
+      "skills": [
+        { "icon": "Globe", "title": "Distributed Systems" },
+        { "icon": "Cloud", "title": "Cloud Computing" },
+        { "icon": "Code", "title": "Algorithm Design" }
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Best Thesis Award",
+      "description": "Recognition for Outstanding Research In AI Applications"
+    }
+  ],
+  "projects": [
+    {
+      "title": "House-Services Management App",
+      "description": "PaaS web application developed using Python(Flask) and VueJS, along with SQLite Database. The application has role based Authentication and Authorization, and there are 3 roles, Admin, User and Serviceman.",
+      "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=800&auto=format&fit=crop&q=60",
+      "tags": ["React", "Python", "TensorFlow"]
+    }
+  ]
+}
